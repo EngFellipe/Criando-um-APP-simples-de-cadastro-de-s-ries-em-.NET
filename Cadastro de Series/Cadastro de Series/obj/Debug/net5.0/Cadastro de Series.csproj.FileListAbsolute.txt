@@ -1,0 +1,87 @@
+E:\Meus Documentos\DIO\App\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\Cadastro de Series.exe
+E:\Meus Documentos\DIO\App\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\Cadastro de Series.deps.json
+E:\Meus Documentos\DIO\App\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\Cadastro de Series.runtimeconfig.json
+E:\Meus Documentos\DIO\App\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\Cadastro de Series.runtimeconfig.dev.json
+E:\Meus Documentos\DIO\App\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\Cadastro de Series.dll
+E:\Meus Documentos\DIO\App\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\ref\Cadastro de Series.dll
+E:\Meus Documentos\DIO\App\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\Cadastro de Series.pdb
+E:\Meus Documentos\DIO\App\Cadastro de Series\Cadastro de Series\obj\Debug\net5.0\Cadastro de Series.csproj.AssemblyReference.cache
+E:\Meus Documentos\DIO\App\Cadastro de Series\Cadastro de Series\obj\Debug\net5.0\Cadastro de Series.GeneratedMSBuildEditorConfig.editorconfig
+E:\Meus Documentos\DIO\App\Cadastro de Series\Cadastro de Series\obj\Debug\net5.0\Cadastro de Series.AssemblyInfoInputs.cache
+E:\Meus Documentos\DIO\App\Cadastro de Series\Cadastro de Series\obj\Debug\net5.0\Cadastro de Series.AssemblyInfo.cs
+E:\Meus Documentos\DIO\App\Cadastro de Series\Cadastro de Series\obj\Debug\net5.0\Cadastro de Series.csproj.CoreCompileInputs.cache
+E:\Meus Documentos\DIO\App\Cadastro de Series\Cadastro de Series\obj\Debug\net5.0\Cadastro de Series.dll
+E:\Meus Documentos\DIO\App\Cadastro de Series\Cadastro de Series\obj\Debug\net5.0\ref\Cadastro de Series.dll
+E:\Meus Documentos\DIO\App\Cadastro de Series\Cadastro de Series\obj\Debug\net5.0\Cadastro de Series.pdb
+E:\Meus Documentos\DIO\App\Cadastro de Series\Cadastro de Series\obj\Debug\net5.0\Cadastro de Series.genruntimeconfig.cache
+E:\Meus Documentos\DIO\App\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\Meus Documentos\DIO\App\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\Google.Protobuf.dll
+E:\Meus Documentos\DIO\App\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+E:\Meus Documentos\DIO\App\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+E:\Meus Documentos\DIO\App\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+E:\Meus Documentos\DIO\App\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+E:\Meus Documentos\DIO\App\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\MySql.Data.dll
+E:\Meus Documentos\DIO\App\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+E:\Meus Documentos\DIO\App\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\ZstdNet.dll
+E:\Meus Documentos\DIO\App\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Meus Documentos\DIO\App\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\System.Drawing.Common.dll
+E:\Meus Documentos\DIO\App\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Meus Documentos\DIO\App\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\System.Security.Permissions.dll
+E:\Meus Documentos\DIO\App\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\System.Windows.Extensions.dll
+E:\Meus Documentos\DIO\App\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Meus Documentos\DIO\App\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Meus Documentos\DIO\App\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Meus Documentos\DIO\App\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Meus Documentos\DIO\App\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Meus Documentos\DIO\App\Cadastro de Series\Cadastro de Series\obj\Debug\net5.0\Cadastro de Series.csproj.CopyComplete
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\obj\Debug\net5.0\Cadastro de Series.csproj.AssemblyReference.cache
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\obj\Debug\net5.0\Cadastro de Series.GeneratedMSBuildEditorConfig.editorconfig
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\obj\Debug\net5.0\Cadastro de Series.AssemblyInfoInputs.cache
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\obj\Debug\net5.0\Cadastro de Series.AssemblyInfo.cs
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\obj\Debug\net5.0\Cadastro de Series.csproj.CoreCompileInputs.cache
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\obj\Debug\net5.0\Cadastro de Series.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\obj\Debug\net5.0\ref\Cadastro de Series.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\obj\Debug\net5.0\Cadastro de Series.pdb
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\Cadastro de Series.exe
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\Cadastro de Series.deps.json
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\Cadastro de Series.runtimeconfig.json
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\Cadastro de Series.runtimeconfig.dev.json
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\Cadastro de Series.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\ref\Cadastro de Series.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\Cadastro de Series.pdb
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\EntityFramework.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\Google.Protobuf.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\MySql.Data.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\ZstdNet.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\System.Data.SQLite.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\System.CodeDom.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\System.Data.SQLite.EF6.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\System.Drawing.Common.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\System.Security.Permissions.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\System.Windows.Extensions.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\runtimes\win-x64\native\SQLite.Interop.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\runtimes\win-x86\native\SQLite.Interop.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\obj\Debug\net5.0\Cadastro de Series.csproj.CopyComplete
+E:\Meus Documentos\DIO\App C# com SQLite\Cadastro de Series\Cadastro de Series\obj\Debug\net5.0\Cadastro de Series.genruntimeconfig.cache
